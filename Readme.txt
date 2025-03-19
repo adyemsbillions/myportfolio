@@ -9,5 +9,4 @@ For Fully working PHP Contact Form
 .
 .
 
-▶️ Watch Video Tutorial → https://youtu.be/TCFm-6BumPg
 

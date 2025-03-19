@@ -17,7 +17,7 @@
 
     <!-- header design -->
     <header class="header">
-        <a href="#" class="logo">Portfolio.<span class="animate" style="--i:1;"></span></a>
+        <a href="#" class="logo">my portfolio.<span class="animate" style="--i:1;"></span></a>
 
         <div class="bx bx-menu" id="menu-icon"><span class="animate" style="--i:2;"></span></div>
 
@@ -283,7 +283,7 @@
     <!-- footer design -->
     <footer class="footer">
         <div class="footer-text">
-            <p>Copyright &copy; Portfolio. by Debugging Human</p>
+            <p>Copyright &copy; Portfolio. by adyems godlove</p>
 
             <span class="animate scroll" style="--i:1;"></span>
         </div>
