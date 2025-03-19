@@ -3,9 +3,9 @@
 
 try {
     $host = 'localhost';
-    $dbname = 'your_database_name';
-    $username = 'your_username';
-    $password = 'your_password';
+    $dbname = 'adyemsgodlovedb';
+    $username = 'adyems9';
+    $password = '#adyems123AD';
     
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
